@@ -1,5 +1,13 @@
 #include<stdio.h>
+
 int main()
+
 {
-print("Welcome to Git hub");
+
+printf("Welcome to Git hub");
+
+printf("surya is a good boy.....");
+
+printf("MCR is a very good boy");
+
 }
